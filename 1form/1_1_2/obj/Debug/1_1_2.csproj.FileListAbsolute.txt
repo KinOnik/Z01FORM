@@ -1,0 +1,11 @@
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\bin\Debug\1_1_2.exe.config
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\bin\Debug\1_1_2.exe
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\bin\Debug\1_1_2.pdb
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\1_1_2.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\1_1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\_1_1_2.Form1.resources
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\_1_1_2.Properties.Resources.resources
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\1_1_2.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\1_1_2.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\1_1_2.exe
+C:\Users\Andrey\Desktop\учеба\praktika\1_1_2\1_1_2\obj\Debug\1_1_2.pdb
